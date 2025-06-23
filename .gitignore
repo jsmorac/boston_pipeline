@@ -1,0 +1,6 @@
+# Entornos virtuales
+boston/
+# MLflow
+mlruns/
+# Cachés de Python
+__pycache__/
