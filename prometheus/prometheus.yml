@@ -1,0 +1,7 @@
+global:
+  scrape_interval: 5s
+
+scrape_configs:
+  - job_name: "boston_api"
+    static_configs:
+      - targets: ["boston-api:8000"]

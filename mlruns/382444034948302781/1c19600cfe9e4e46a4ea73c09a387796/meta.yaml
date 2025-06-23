@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jhoan/Desktop/boston_pipeline/mlruns/382444034948302781/1c19600cfe9e4e46a4ea73c09a387796/artifacts
+end_time: 1750615372873
+entry_point_name: ''
+experiment_id: '382444034948302781'
+lifecycle_stage: active
+run_id: 1c19600cfe9e4e46a4ea73c09a387796
+run_name: welcoming-skink-894
+run_uuid: 1c19600cfe9e4e46a4ea73c09a387796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750615367937
+status: 3
+tags: []
+user_id: jhoan

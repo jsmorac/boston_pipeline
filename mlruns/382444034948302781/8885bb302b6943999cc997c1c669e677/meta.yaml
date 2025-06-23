@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jhoan/Desktop/boston_pipeline/mlruns/382444034948302781/8885bb302b6943999cc997c1c669e677/artifacts
+end_time: 1750615206014
+entry_point_name: ''
+experiment_id: '382444034948302781'
+lifecycle_stage: active
+run_id: 8885bb302b6943999cc997c1c669e677
+run_name: rogue-hare-950
+run_uuid: 8885bb302b6943999cc997c1c669e677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750615200905
+status: 3
+tags: []
+user_id: jhoan

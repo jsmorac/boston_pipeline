@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jhoan/Desktop/boston_pipeline/mlruns/382444034948302781/d041343fa81e4b8cb7842c5a1c77d83f/artifacts
+end_time: 1750621289653
+entry_point_name: ''
+experiment_id: '382444034948302781'
+lifecycle_stage: active
+run_id: d041343fa81e4b8cb7842c5a1c77d83f
+run_name: abrasive-panda-215
+run_uuid: d041343fa81e4b8cb7842c5a1c77d83f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750621283093
+status: 3
+tags: []
+user_id: jhoan

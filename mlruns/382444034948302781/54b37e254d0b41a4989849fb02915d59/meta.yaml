@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jhoan/Desktop/boston_pipeline/mlruns/382444034948302781/54b37e254d0b41a4989849fb02915d59/artifacts
+end_time: 1750604547894
+entry_point_name: ''
+experiment_id: '382444034948302781'
+lifecycle_stage: active
+run_id: 54b37e254d0b41a4989849fb02915d59
+run_name: rogue-bird-806
+run_uuid: 54b37e254d0b41a4989849fb02915d59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750604539553
+status: 3
+tags: []
+user_id: jhoan

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/jhoan/Desktop/boston_pipeline/mlruns/382444034948302781
+creation_time: 1750516442100
+experiment_id: '382444034948302781'
+last_update_time: 1750516442100
+lifecycle_stage: active
+name: boston_regression

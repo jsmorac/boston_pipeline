@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jhoan/Desktop/boston_pipeline/mlruns/382444034948302781/7f1f12f2764b4c60b011efd81600fe40/artifacts
+end_time: 1750614040361
+entry_point_name: ''
+experiment_id: '382444034948302781'
+lifecycle_stage: active
+run_id: 7f1f12f2764b4c60b011efd81600fe40
+run_name: silent-swan-984
+run_uuid: 7f1f12f2764b4c60b011efd81600fe40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750614035261
+status: 3
+tags: []
+user_id: jhoan

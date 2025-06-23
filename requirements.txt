@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn==1.3.2
+mlflow
+joblib
+fastapi
+uvicorn
+prometheus_client
+python-dotenv    
+evidently==0.4.20
+pydantic==1.10.13
+
