@@ -32,7 +32,7 @@ Este repositorio contiene una solución completa de machine learning para predec
 1. Clona el repositorio:
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/jsmorac/boston_pipeline.git
 cd boston_pipeline
 ```
 
